@@ -48,6 +48,21 @@
               </div>
               <div class="mdl-card__supporting-text">
 		第3回大会のポスターです。
+		<br>
+		第3回大会では、初心者部門と上級者部門の２部門に別れて大会が行われました。
+              </div>
+	      <br>    
+	    </div>
+
+	    <div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+              <div class="mdl-card__media">
+		<img class="article-image" src="img/poster-3rd.jpg" border="0" alt="">
+              </div>
+              <div class="mdl-card__title">
+		<h2 class="mdl-card__title-text">第3回大会②</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+		第3回大会の対局の様子です。
               </div>
 	      <br>    
 	    </div>
